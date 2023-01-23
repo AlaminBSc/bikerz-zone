@@ -1,0 +1,23 @@
+
+
+/* style light  system  */
+
+.bg-light-btn{
+    background-color:rgba(220, 21, 21, 0.116);
+} 
+
+
+footer{
+    background: #161615;
+    border-radius: 8px;
+
+    margin-bottom:50px;
+    
+}
+.footer-about{
+    color:white;
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+    padding: 30px 100px;
+}
